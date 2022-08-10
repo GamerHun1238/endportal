@@ -1,4 +1,4 @@
 ---
-layout: redirect
-tourl: https://github.com/webbukkit/dynmap/wiki
+layout: redirectCancel changes
+tourl: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ---
